@@ -1,6 +1,6 @@
 // Code your solutions in this file
 
-const graduate = ["Charlie", "Samip", "Ali"];
+const graduate = ["Guadalupe", "Ollie", "Aki"];
 
 function writeCards (names, event) {
     const graduationGreeting = [];
